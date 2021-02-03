@@ -1,0 +1,9 @@
+name: Fortune
+main: com.MWAA12.fortune.main
+version: 1.488
+description: esfores fortunes by Keksandra
+api-version: 1.16
+commands:
+  fortune:
+    description: Tells everyone on the server your fortune!
+    usage: /<command>
